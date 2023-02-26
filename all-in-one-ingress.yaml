@@ -21,7 +21,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: hello-service
+  name: cloud-build
 spec:
   type: ClusterIP
   selector:
