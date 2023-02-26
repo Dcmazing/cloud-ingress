@@ -46,7 +46,7 @@ spec:
     spec:
       containers:
       - name: cloud-build
-        image: gcr.io/google-samples/cloud-build:0.2
+        image: gcr.io/poc-ni-rei/cloud-build
         ports:
         - containerPort: 8080
 
